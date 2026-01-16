@@ -12,8 +12,12 @@ This projects demonstrate the design and implementation of a microcontroller bas
 
 ## Technologies Used
 - Microcontroller: ESP32
-- Programming Language: C
 - Motor Driver: TB6612FNG
+- 360 Stepdown Buck Converter
+- N20 Motors 12v 500rpm
+- 11.1v LiPo Battery
+- ipega PG9090 Wireless Controller
+- Programming Language: C
 - Version Control: Git & GitHub
 - Documentation: Markdown, diagrams
 
@@ -21,7 +25,7 @@ This projects demonstrate the design and implementation of a microcontroller bas
 The system consists of a wireless controller transmitting commands to the onboard microcontroller. The microcontroller processes control signals and drives the motor driver to control vehicle movement.
 
 ## Repository Structure
-- `hardware/` – Schematics, PCB designs, BOM
+- `hardware/` – Schematics, 3d designs, BOM
 - `firmware/` – Embedded source code
 - `docs/` – System diagrams and technical notes
 - `media/` – Project photos and demo videos
