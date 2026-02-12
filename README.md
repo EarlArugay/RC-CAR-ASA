@@ -39,7 +39,7 @@ The hardware design centers on a Split-Rail Power Distribution strategy. To maxi
 The wiring diagram illustrates the physical interconnectivity of the vehicle’s electronic suite. Key design choices include the use of Common Grounding across all components to eliminate signal noise and the utilization of high-speed PWM-capable GPIOs on the ESP32. This map serves as the primary assembly guide, ensuring correct pin-mapping between the microcontroller logic and the high-power motor driver
 
 
-## Project Documantation
+## Project Documentation
 
 
 
