@@ -6,12 +6,12 @@ This projects demonstrate the design and implementation of a microcontroller bas
 
 ## Key Features
 - Wireless remote control (Bluetooth / RF / Wi-Fi)
-- DC motor control using motor driver IC
+- DC motor control using motor driver module
 - Modular embedded firmware architecture
 - Battery-powered system with onboard regulation
 
 ## Technologies Used
-- Microcontroller: ESP32
+- Microcontroller: ESP32 C3 SUPERMINI
 - Motor Driver: TB6612FNG
 - 360 Stepdown Buck Converter
 - N20 Motors 12v 500rpm
@@ -21,12 +21,18 @@ This projects demonstrate the design and implementation of a microcontroller bas
 - Version Control: Git & GitHub
 - Documentation: Markdown, diagrams
 
-## System Architecture
+## Hardware Architecture
 The system consists of a wireless controller transmitting commands to the onboard microcontroller. The microcontroller processes control signals and drives the motor driver to control vehicle movement.
 
-## Repository Structure
-- `hardware/` – Schematics, 3d designs, BOM
-- `firmware/` – Embedded source code
-- `docs/` – System diagrams and technical notes
-- `media/` – Project photos and demo videos
-- `reports/` – Final technical documentation
+
+## Software Architecture
+
+
+## Wiring Diagram
+
+
+## Project Documantation
+
+
+
+
