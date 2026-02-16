@@ -129,5 +129,8 @@ This is the primary assembly blueprint. It provides a pin-to-pin mapping of ever
 
 </details>
 
+### Performance Demonstration
+View the Sample Videos of RC CAR ASA here:
+[**Click here to watch the Sample Videos on Google Drive**]([YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/1S8k-swSK48Z8l2u1Qwt3Y57Wt0VImPYA?usp=sharing))
 
 
